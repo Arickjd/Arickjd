@@ -1,16 +1,42 @@
-## Hi there 👋
+# Arick Jurdan dos Reis
 
-<!--
-**Arickjd/Arickjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arick%20Jurdan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arickjurdan) [![Medium](https://img.shields.io/badge/GitHub-Arickjd-black?style=flat&logo=github)](https://github.com/Arickjd)
 
-Here are some ideas to get you started:
+📧 **Email**: arickjurdan.20221@poli.ufrj.br  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍🎓 About Me
+
+I'm a **Control and Automation Engineering** student at the **Federal University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Deep Learning**, and **Generative AI**. I'm passionate about using technology to solve real-world problems, particularly through IoT, data analysis, and AI-driven solutions. 
+- Interests: I'm currently interested in expanding my knowledge in data visualization, machine learning, and the integration of IoT with real-time data analysis.
+---
+
+## 💻 Experience
+
+- **Programming**: C, Objective-C, R, SQL, Python, Julia, HTML/CSS
+
+- **Technologies**: Power BI, Microsoft SQL Server
+
+---
+
+## 🚀 Latest Projects
+
+### Generative models in Biomedical Engineering: 
+Principles, applications and implications.
+
+- **Technologies**: Word Embedding, Transformers, LLM.
+
+### IoT-Based Irrigation Control System for Vineyards
+Developed a smart irrigation management system that leverages IoT soil moisture sensors, aiming to automate soil monitoring, reduce manual inspections, and adapt to soil variations.
+
+- **Technologies**: ZigBee, STM32CubeIDE, MQTT, capacitive sensors, DHT22, XBee S2C.
+
+### Investment Analysis in Transportation/Infrastructure Using R
+A project as part of the selection process for the UFRJ Analytica Academic League, involving analysis of a dataset with diverse indicators to draw statistical inferences using data science tools.
+
+- **Technologies**: R, SQL, Google BigQuery, LaTeX.
+
+---
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect!
