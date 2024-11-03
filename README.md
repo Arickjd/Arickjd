@@ -8,13 +8,13 @@
 
 ## 👨‍🎓 About Me
 
-I'm a **Control and Automation Engineering** student at the **Federal University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Deep Learning**, and **Generative AI**. I'm passionate about using technology to solve real-world problems, particularly through IoT, data analysis, and AI-driven solutions. 
-- Interests: I'm currently interested in expanding my knowledge in data visualization, machine learning, and the integration of IoT with real-time data analysis.
+I'm a **Control and Automation Engineering** student at the **Federal University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Machine Learning**, and **Generative AI**. I'm passionate about using technology to solve real-world problems, particularly through IoT, data analysis, and AI-driven solutions. 
+- Interests: I'm currently interested in expanding my knowledge in Deep Learning and the integration of IoT with real-time data analysis.
 ---
 
 ## 💻 Experience
 
-- **Programming**: C, Objective-C, R, SQL, Python, Julia, HTML/CSS
+- **Programming**: C, Objective-C, R, SQL, Python, Julia
 
 - **Technologies**: Power BI, Microsoft SQL Server
 
