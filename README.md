@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm a **Control and Automation Engineering** student at the **Federal University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Machine Learning**, and **Generative AI**. I'm passionate about using technology to solve real-world problems, particularly through IoT, data analysis, and AI-driven solutions. 
+I'm a **Control and Automation Engineering** student at the **Federal University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Machine Learning**, and **Generative AI**. I'm passionate about using technology to solve real-world problems, particularly through IoT, Time Series Analysis, and AI-driven solutions. 
 - Interests: I'm currently interested in expanding my knowledge in Deep Learning and the integration of IoT with real-time data analysis.
 ---
 
@@ -25,7 +25,7 @@ I'm a **Control and Automation Engineering** student at the **Federal University
 ### Generative models in Biomedical Engineering: 
 Principles, applications and implications.
 
-- **Technologies**: Word Embedding, Transformers, LLM.
+- **Technologies**: Transformers, LLM, Incorporation Models, Computational Linear Algebra 
 
 ### IoT-Based Irrigation Control System for Vineyards
 Developed a smart irrigation management system that leverages IoT soil moisture sensors, aiming to automate soil monitoring, reduce manual inspections, and adapt to soil variations.
@@ -35,7 +35,7 @@ Developed a smart irrigation management system that leverages IoT soil moisture 
 ### Investment Analysis in Transportation/Infrastructure Using R
 A project as part of the selection process for the UFRJ Analytica Academic League, involving analysis of a dataset with diverse indicators to draw statistical inferences using data science tools.
 
-- **Technologies**: R, SQL, Google BigQuery, LaTeX.
+- **Technologies**: R, SQL, Google BigQuery.
 
 ---
 
