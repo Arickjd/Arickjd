@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm a **Control and Automation Engineering** student at the **Federal University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Machine Learning**, and **Generative AI**. I'm passionate about using technology to solve real-world problems, particularly through IoT, Time Series Analysis, and AI-driven solutions. 
+I'm a **Mathematical Engineering** student at the **University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Machine Learning**, and **Generative AI**. I'm passionate about using technology to solve real-world problems, particularly through IoT, Time Series Analysis, and AI-driven solutions. 
 - Interests: I'm currently interested in expanding my knowledge in Deep Learning and the integration of IoT with real-time data analysis.
 ---
 
