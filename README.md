@@ -39,4 +39,15 @@ A project as part of the selection process for the UFRJ Analytica Academic Leagu
 
 ---
 
+## 📄 Publications & Papers
+
+- **[Rio Oil & Gás Conference / In Preparation]**  
+  *Forecasting CBIO Prices on B3 with AI-Based Time Series Models to Support RenovaBio* — D. A. Gandelman, K. C. P. G. Alekseev, **A. J. dos Reis**, J. P. P. Barreto.
+
+- **Simpósio Brásileiro de Redes de Computadores (SBRC) / Workshop Contributions**  
+  Participation in workshops and  **Victorious Team** at interdisciplinary initiatives combining mathematics, engineering, and artificial intelligence.
+
+
+
+
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect!
