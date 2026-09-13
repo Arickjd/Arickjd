@@ -12,6 +12,7 @@ I'm a **Mathematical Engineering** student at the **University of Rio de Janeiro
 ## Open Portifolio
 
 - *[IA for Oil and Gas](https://github.com/Arickjd/rmn-oilwater-regression): fluid saturation based on NMR data with neural networks (2026)*
+- *[CIVITAS](https://github.com/carloshnp/hexagon) — Inteligência de Segurança Pública para o Rio de Janeiro*
 - *Implementation of [Differentiable Laplace Reconstructions](https://github.com/Arickjd/nn_laplace) to stock price time series (2026)*
 - *[Open Dataset](https://zenodo.org/records/22097128): Nuclear Magnetic Resonance Synthetic Dataset from Gulf of Mexico Gas Hydrate (2026)*
 - *[Time Series](https://github.com/Arickjd/matematica-computacional):Modeling and forecasting of individuals with Severe Acute Respiratory Syndrome (2025)*
