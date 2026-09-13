@@ -13,12 +13,13 @@ I'm a **Mathematical Engineering** student at the **University of Rio de Janeiro
 
 ## Open Portifolio
 
-- *Implementation of [Differentiable Laplace Reconstructions](https://github.com/Arickjd/nn_laplace) to stock price time series* (2026)
-- *[Open Dataset](https://zenodo.org/records/22097128): Nuclear Magnetic Resonance Synthetic Dataset from Gulf of Mexico Gas Hydrate* (2026)
-- *Modeling and forecasting of individuals with Severe Acute Respiratory Syndrome* (2025)
-- *Generative models in Biomedical Engineering: Principles, applications and implications* (2024)
-- *IoT-Based [Irrigation Control]() System for Vineyards* (2024)
-- *My recruitment process project of UFRJ Analytica: [Investment Analysis](https://github.com/Arickjd/PS_UFRJAnalytica2024) in Transportation/Infrastructure of Rio de Janeiro* (2023)
+- *[IA for Oil and Gas](https://github.com/Arickjd/rmn-oilwater-regression): fluid saturation based on NMR data with neural networks (2026)*
+- *Implementation of [Differentiable Laplace Reconstructions](https://github.com/Arickjd/nn_laplace) to stock price time series (2026)*
+- *[Open Dataset](https://zenodo.org/records/22097128): Nuclear Magnetic Resonance Synthetic Dataset from Gulf of Mexico Gas Hydrate (2026)*
+- *[Time Series](https://github.com/Arickjd/matematica-computacional):Modeling and forecasting of individuals with Severe Acute Respiratory Syndrome (2025)*
+- *Generative models in Biomedical Engineering: Principles, applications and implications (2024)*
+- *[IoT-Based Irrigation Control](https://github.com/gtafuri/IoT-2024) System for Vineyards (2024)*
+- *My recruitment process project of UFRJ Analytica: [Investment Analysis](https://github.com/Arickjd/PS_UFRJAnalytica2024) in Transportation/Infrastructure of Rio de Janeiro (2023)*
 
 ## Publications
 
