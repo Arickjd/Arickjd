@@ -1,7 +1,5 @@
 ## Hi, I'm Arick 👋
 
-## About Me
-
 I'm a **Mathematical Engineering** student at the **University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Machine Learning**, and **Generative AI**.
 
 ## Experience
