@@ -1,6 +1,6 @@
 ## Hi, I'm Arick 👋
 
-I'm a **Mathematical Engineering** student at the **University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Machine Learning**, and **Generative AI**.
+I'm a **Mathematical Engineering** student at the **University of Rio de Janeiro (UFRJ)** with a strong focus on **Data Science**, **Deep Learning** and **Computational Modelling**
 
 ## Experience
 
@@ -21,7 +21,7 @@ I'm a **Mathematical Engineering** student at the **University of Rio de Janeiro
 - *[IoT-Based Irrigation Control](https://github.com/gtafuri/IoT-2024) System for Vineyards (2024)*
 - *My recruitment process project of UFRJ Analytica: [Investment Analysis](https://github.com/Arickjd/PS_UFRJAnalytica2024) in Transportation/Infrastructure of Rio de Janeiro (2023)*
 
-## Publications
+## Latest Publications
 
 - **[Simpósio Brasileiro de Banco de Dados - SBBD/WFD] (2026)** *DOI: https://doi.org/10.5753/sbbd_estendido.2026.249736*  
   *GabrielNet: Segmentação de Fácies Sísmicas com Arquitetura Multi-Decoder e Ensemble de Redes Neurais Profundas* — J. P. P. Barreto, L. M. Botelho, **A. J. dos Reis**, C. M. de Farias. 
