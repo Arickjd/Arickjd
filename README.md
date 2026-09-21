@@ -23,12 +23,14 @@ I'm a **Mathematical Engineering** student at the **University of Rio de Janeiro
 
 ## Latest Publications
 
-- **[Simpósio Brasileiro de Banco de Dados - SBBD/WFD] (2026)** *DOI: https://doi.org/10.5753/sbbd_estendido.2026.249736*  
-  *GabrielNet: Segmentação de Fácies Sísmicas com Arquitetura Multi-Decoder e Ensemble de Redes Neurais Profundas* — J. P. P. Barreto, L. M. Botelho, **A. J. dos Reis**, C. M. de Farias. 
+- **[Simpósio Brasileiro de Banco de Dados - SBBD/WFD] (2026)** 
+  *GabrielNet: Segmentação de Fácies Sísmicas com Arquitetura Multi-Decoder e Ensemble de Redes Neurais Profundas* — J. P. P. Barreto, L. M. Botelho, **A. J. dos Reis**, C. M. de Farias. [![DOI](https://img.shields.io/badge/DOI-10.5753%2Fsbbd__estendido.2026.249736-blue)](https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/44203)
+
 
 - **[Rio Oil & Gás Conference] (2026)**  *Accepted for publication/Forthcoming*  
   *Forecasting CBIO Prices on B3 with AI-Based Time Series Models to Support RenovaBio* — D. A. Gandelman, K. C. P. G. Alekseev, **A. J. dos Reis**, J. P. P. Barreto.
 
 ## Reach me at
 
+arickjurdan.20221@poli.ufrj.br  
 [linkedin](https://www.linkedin.com/in/arick-jurdan-dos-reis-6b8684258/)
