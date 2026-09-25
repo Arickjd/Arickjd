@@ -28,7 +28,7 @@ I'm a **Mathematical Engineering** student at the **University of Rio de Janeiro
 
 
 - **[Rio Oil & Gás Conference] (2026)**  *Accepted for publication/Forthcoming*  
-  *Forecasting CBIO Prices on B3 with AI-Based Time Series Models to Support RenovaBio* — D. A. Gandelman, K. C. P. G. Alekseev, **A. J. dos Reis**, J. P. P. Barreto.
+  *Forecasting CBIO Prices on B3 with AI-Based Time Series Models to Support RenovaBio* — D. A. Gandelman, K. C. P. G. Alekseev, **A. J. dos Reis**, J. P. P. Barreto. [![DOI](https://img.shields.io/badge/DOI-10.48072%2F2525--7579.roge.2024.6636-blue)](https://biblioteca.ibp.org.br/scripts/bnmapi.exe?router=upload/40166)
 
 ## Reach me at
 
